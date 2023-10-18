@@ -26,15 +26,16 @@
 <h3>pré-requisitos</h3>
 Antes de começar, você precisa ter instalado em sua máquina o GIT. Além disso você tambem precisa ter instalado algum programa que execute códigos em Java, como o Intellig, Eclipse, NetBeans, entre outros.
 <h3>Como executar</h3>
-Clone o projeto em sua máquina uasando o comando git clone no seu terminal, após isso abra a pasta do projeto no seu executor.
-Com o projeto aberto, clique para rodar a Main, Aparecera o menu no seu console. Nele haverá 5 opções: 
-
-                 2. 
-                 3. 
-                 4. Limpar carrinho
-                 5. Sair 
-<ol>
-  <li>1. Saber mais sobre os produtos</li>
-  <li>Adicionar produtos ao carrinho</li>
-  <li>Ver carrinho</li>
-</ol>
+<p>Clone o projeto em sua máquina uasando o comando git clone no seu terminal, após isso abra a pasta do projeto no seu executor.
+Com o projeto aberto, clique para rodar a Main. Após isso aparecerá o menu com as seguintes opções:</p>
+<img src="./screenshots/menu.png"/>
+<p>Se selecionarmos a opção 1, o programa irá apresentar os produtos para o usuário</p>
+<img src="./screenshots/produtos.png"/>
+<p>Depois ele retorna ao menu principal. <br/>Na segunda opção o programa irá abrir outro menu para escolhermos os produtos que desejamos adicionar ao carrinho</p>
+<img src="./screenshots/adicionarProdutos.png"/>
+<p>Quando o usuário retornar para o menu principal, ele poderá ver seu carrinho de compras selecionando a opção 3</p>
+<img src="./screenshots/carrinho.png"/>
+<p>Nesta opção o programa também informa o valor total dos produtos.<br/>Na opção 4, o progrma irá limpar seu carrinho, deixando ele vazio</p>
+<img src="./screenshots/carrinhoVazio.png"/>
+<p>Se digitarmos a opção 3, após limpar o carrinho, ele informará que o carrinho está vazio.</p>
+<p>Por fim, para encerrar o programa basta digitar a opção 5.</p>
