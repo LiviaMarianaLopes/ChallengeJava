@@ -6,10 +6,8 @@
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#funcionalidades">Funcionalidades</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
+ <a href="#executar">Como executar</a>• 
+ <a href="#desenvolvedores">Desenvolvedores</a>
 </p>
 <h2 id="objetivo">💻 Sobre o projeto</h2>
  O projeto foi desenvolvido com a finalidade de criar um menu para facilitar as compras do usuário. Onde você pode desde saber mais sobre os produtos até adiciona-los ao seu carrinho de compras.
@@ -22,7 +20,7 @@
 - [x] Limpar carrinho
 - [x] Sair do menu
 
-<h2>Como executar e usar o progrma</h2>
+<h2 id="executar">Como executar e usar o progrma</h2>
 <h3>pré-requisitos</h3>
 Antes de começar, você precisa ter instalado em sua máquina o GIT. Além disso você tambem precisa ter instalado algum programa que execute códigos em Java, como o Intellig, Eclipse, NetBeans, entre outros.
 <h3>Como executar</h3>
@@ -39,3 +37,5 @@ Com o projeto aberto, clique para rodar a Main. Após isso aparecerá o menu com
 <img src="./screenshots/carrinhoVazio.png"/>
 <p>Se digitarmos a opção 3, após limpar o carrinho, ele informará que o carrinho está vazio.</p>
 <p>Por fim, para encerrar o programa basta digitar a opção 5.</p>
+<h2 id="desenvolvedores">Desenvolvedores</h2>
+
