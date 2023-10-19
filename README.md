@@ -10,7 +10,8 @@
  <a href="#desenvolvedores">Desenvolvedores</a>
 </p>
 <h2 id="objetivo">💻 Sobre o projeto</h2>
- O projeto foi desenvolvido com a finalidade de criar um menu para facilitar as compras do usuário. Onde você pode desde saber mais sobre os produtos até adiciona-los ao seu carrinho de compras.
+ O projeto foi feito com a finalidade de criar um menu para facilitar as compras do usuário. Onde você pode desde saber mais sobre os produtos até adicioná-los ao seu carrinho de compras.</br>
+ Desenvolvido durante a primeira Sprint do Challenge da Salesforce provido pela instituição FIAP.
 
  <h2 id="funcionalidades">⚙️ Funcionalidades</h2>
  
@@ -20,9 +21,9 @@
 - [x] Limpar carrinho
 - [x] Sair do menu
 
-<h2 id="executar">Como executar e usar o progrma</h2>
+<h2 id="executar">⚒️Como executar e usar o progrma</h2>
 <h3>pré-requisitos</h3>
-Antes de começar, você precisa ter instalado em sua máquina o GIT. Além disso você tambem precisa ter instalado algum programa que execute códigos em Java, como o Intellig, Eclipse, NetBeans, entre outros.
+Antes de começar, você precisa ter instalado em sua máquina o GIT. Além disso você também precisa ter instalado algum programa que execute códigos em Java, como o Intellig, Eclipse, NetBeans, entre outros.
 <h3>Como executar</h3>
 <p>Clone o projeto em sua máquina uasando o comando git clone no seu terminal, após isso abra a pasta do projeto no seu executor.
 Com o projeto aberto, clique para rodar a Main. Após isso aparecerá o menu com as seguintes opções:</p>
@@ -37,5 +38,15 @@ Com o projeto aberto, clique para rodar a Main. Após isso aparecerá o menu com
 <img src="./screenshots/carrinhoVazio.png"/>
 <p>Se digitarmos a opção 3, após limpar o carrinho, ele informará que o carrinho está vazio.</p>
 <p>Por fim, para encerrar o programa basta digitar a opção 5.</p>
-<h2 id="desenvolvedores">Desenvolvedores</h2>
+<h2 id="desenvolvedores">👩‍💻Desenvolvedores</h2>
+
+<table>
+  <tr>
+    <td align="center"><img style="border-radius: 50%;" src="./imagens/MicrosoftTeams-image (2).png" width="150px;" alt=""/><br /><sub><b>Celeste Mayumi</b></sub><br /><a href="https://www.linkedin.com/in/celestetanaka/" title= "Linkedin"><img width="20px" src="https://logopng.com.br/logos/linkedin-83.png"/></a><a href="https://github.com/celestemayumi" title="GitHub"><img src="https://flyclipart.com/thumb2/github-logo-github-logo-media-icon-png-and-vector-for-free-813508.png" width="30px"/></a></td>  
+    <td align="center"><img style="border-radius: 50%;" src="./imagens/MicrosoftTeams-image.png" width="150px;" alt=""/><br /><sub><b>Lívia Lopes</b></sub><br /><a href="https://www.linkedin.com/in/liviamarianalopes/" title="Linkedin"><img width="20px" src="https://logopng.com.br/logos/linkedin-83.png"/></a><a href="https://github.com/LiviaMarianaLopes" title="GitHub"><img src="https://flyclipart.com/thumb2/github-logo-github-logo-media-icon-png-and-vector-for-free-813508.png" width="30px"/></a></td>
+    <td align="center"><img style="border-radius: 50%;" src="./imagens/MicrosoftTeams-image (1).png" width="150px;" alt=""/><br /><sub><b>Luana Vieira</b></sub><br /><a href="https://www.linkedin.com/in/luana-vieira-a093b5289/" title="Linkedin"><img width="20px" src="https://logopng.com.br/logos/linkedin-83.png"/></a><a href="https://github.com/luacttau" title="GitHub"><img src="https://flyclipart.com/thumb2/github-logo-github-logo-media-icon-png-and-vector-for-free-813508.png" width="30px"/></a></td>
+   
+  </tr>
+</table>
+
 
